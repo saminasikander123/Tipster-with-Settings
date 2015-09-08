@@ -5,5 +5,5 @@ Hours to complete = 3 hours
 
 Completed all required stories including the "Setttings"
 
-![Video Walkthrough](Tipster-demo.gif)
+![Video Walkthrough](Tipster-withSettings-demo.gif)
 
